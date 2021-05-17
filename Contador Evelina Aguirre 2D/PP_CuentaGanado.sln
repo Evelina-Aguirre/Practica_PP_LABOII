@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contador Evelina Aguirre 2D", "Contador Evelina Aguirre 2D\Contador Evelina Aguirre 2D.csproj", "{FF67AE60-A1DF-43A5-A7B6-A46B02CA1D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{E4E77607-DF3B-4B2D-A94C-F38062ED118C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF67AE60-A1DF-43A5-A7B6-A46B02CA1D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF67AE60-A1DF-43A5-A7B6-A46B02CA1D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF67AE60-A1DF-43A5-A7B6-A46B02CA1D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF67AE60-A1DF-43A5-A7B6-A46B02CA1D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E77607-DF3B-4B2D-A94C-F38062ED118C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E77607-DF3B-4B2D-A94C-F38062ED118C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E77607-DF3B-4B2D-A94C-F38062ED118C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E77607-DF3B-4B2D-A94C-F38062ED118C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7532405-14B2-4008-85AB-0F9F7B560615}
+	EndGlobalSection
+EndGlobal
