@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D\FrmTester\bin\Debug\FrmTester.exe.config
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D\FrmTester\bin\Debug\FrmTester.exe
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D\FrmTester\bin\Debug\FrmTester.pdb
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D\FrmTester\bin\Debug\Publicación.dll
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D\FrmTester\bin\Debug\Publicación.pdb
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D\FrmTester\obj\Debug\FrmTester.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D\FrmTester\obj\Debug\FrmTester.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D\FrmTester\obj\Debug\FrmTester.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D\FrmTester\obj\Debug\FrmTester.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D\FrmTester\obj\Debug\FrmTester.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D\FrmTester\obj\Debug\FrmTester.exe
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D\FrmTester\obj\Debug\FrmTester.pdb
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D\FrmTester\obj\Debug\FrmTester.FrmTester.resources

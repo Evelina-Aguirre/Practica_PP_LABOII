@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\PP\Aguirre.Evelina.2D\FrmPrincipal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PP\Aguirre.Evelina.2D\FrmPrincipal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PP\Aguirre.Evelina.2D\FrmPrincipal\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\PP\Aguirre.Evelina.2D\FrmPrincipal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\PP\Aguirre.Evelina.2D\FrmPrincipal\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\PP\Aguirre.Evelina.2D\FrmPrincipal\Entidades\obj\Debug\Entidades.pdb
