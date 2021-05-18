@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\FrmPrincipal\bin\Debug\Evelina.Aguirre.2D.PP2020_Receta.dll
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\FrmPrincipal\bin\Debug\Evelina.Aguirre.2D.PP2020_Receta.pdb
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\FrmPrincipal\obj\Debug\FrmPrincipal.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\FrmPrincipal\obj\Debug\FrmPrincipal.Form1.resources
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\FrmPrincipal\obj\Debug\FrmPrincipal.pdb

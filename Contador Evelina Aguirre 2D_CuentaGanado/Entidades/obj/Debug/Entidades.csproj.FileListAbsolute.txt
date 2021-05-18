@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Contador Evelina Aguirre 2D_CuentaGanado\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Contador Evelina Aguirre 2D_CuentaGanado\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Contador Evelina Aguirre 2D_CuentaGanado\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Contador Evelina Aguirre 2D_CuentaGanado\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Contador Evelina Aguirre 2D_CuentaGanado\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Contador Evelina Aguirre 2D_CuentaGanado\Entidades\obj\Debug\Entidades.pdb

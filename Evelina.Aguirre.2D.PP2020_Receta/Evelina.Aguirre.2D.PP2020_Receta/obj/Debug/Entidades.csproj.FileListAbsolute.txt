@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\Evelina.Aguirre.2D.PP2020_Receta\bin\Debug\Evelina.Aguirre.2D.PP2020_Receta.dll
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\Evelina.Aguirre.2D.PP2020_Receta\bin\Debug\Evelina.Aguirre.2D.PP2020_Receta.pdb
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\Evelina.Aguirre.2D.PP2020_Receta\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\Evelina.Aguirre.2D.PP2020_Receta\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\Evelina.Aguirre.2D.PP2020_Receta\obj\Debug\Evelina.Aguirre.2D.PP2020_Receta.dll
+C:\Users\Usuario\source\repos\Practica_PP_LABOII\Evelina.Aguirre.2D.PP2020_Receta\Evelina.Aguirre.2D.PP2020_Receta\obj\Debug\Evelina.Aguirre.2D.PP2020_Receta.pdb

@@ -13,11 +13,21 @@ namespace Contador_Evelina_Aguirre_2D
 {
     public partial class Informes : Form
     {
-        Bar miBar;
+        Gente cliente;
         public Informes()
         {
             InitializeComponent();
         }
+
+        public Gente Cliente
+        {
+            get
+            {
+                return this.cliente;
+            }
+        }
+            
+
 
         private void label3_Click(object sender, EventArgs e)
         {
@@ -32,7 +42,7 @@ namespace Contador_Evelina_Aguirre_2D
             }
            else
             {
-                
+                cliente = new Gente(textBox1.Text, int.Parse(textBox2.Text), int.Parse(textBox3.Text));
 
             }
         }

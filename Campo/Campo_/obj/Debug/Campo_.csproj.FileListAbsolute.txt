@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D.RPP\Campo\Campo_\bin\Debug\Campo_.exe.config
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D.RPP\Campo\Campo_\bin\Debug\Campo_.exe
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D.RPP\Campo\Campo_\bin\Debug\Campo_.pdb
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D.RPP\Campo\Campo_\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D.RPP\Campo\Campo_\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D.RPP\Campo\Campo_\obj\Debug\Campo_.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D.RPP\Campo\Campo_\obj\Debug\Campo_.Form1.resources
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D.RPP\Campo\Campo_\obj\Debug\Campo_.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D.RPP\Campo\Campo_\obj\Debug\Campo_.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D.RPP\Campo\Campo_\obj\Debug\Campo_.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D.RPP\Campo\Campo_\obj\Debug\Campo_.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D.RPP\Campo\Campo_\obj\Debug\Campo_.exe
+C:\Users\Usuario\source\repos\Evelina.Aguirre.2D.RPP\Campo\Campo_\obj\Debug\Campo_.pdb
